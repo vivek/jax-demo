@@ -166,7 +166,7 @@ public class DataFactory {
 				"This article shows you how to perform 10 common web development tasks, such as templating and AJAX, in JSF.",true);
 		addBookmark(
 				"andygibson.net/blog/tutorial/accessing-and-paginating-csv-files-with-datavalve/",
-				"Accessing and Paginating CSV Files with DataValve",
+				"Accessing and Paginating CSV Files with DataValve...",
 				"While DataValve is mostly used to paginate database driven data, this tutorial shows you how to create a Data Provider to access and paginate a comma delimited text file. We will then use the same provider to page through the data in a Console, Swing and JSF application using the DataValve client/provider interface components.",true);
 		addBookmark("lmgtfy.com/?q=java+web+services",
 				"Everything you wanted to know about Java Web Services",
