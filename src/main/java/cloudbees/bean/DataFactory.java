@@ -169,7 +169,7 @@ public class DataFactory {
 				"Accessing and Paginating CSV Files with DataValve",
 				"While DataValve is mostly used to paginate database driven data, this tutorial shows you how to create a Data Provider to access and paginate a comma delimited text file. We will then use the same provider to page through the data in a Console, Swing and JSF application using the DataValve client/provider interface components.",true);
 		addBookmark("lmgtfy.com/?q=java+web+services",
-				"Everything you wanted to know about Java Web Services",
+				"Everything you wanted to know about Java Web Services at JAX",
 				"Here's the fountain of all knowledge on web services");
 
 	}
