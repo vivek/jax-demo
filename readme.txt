@@ -1,5 +1,4 @@
-                                 ${project.artifactId}
-
+[![Build Status](https://buildhive.cloudbees.com/job/vivek/job/jax-demo/badge/icon)](https://buildhive.cloudbees.com/job/vivek/job/jax-demo/)
 
  Created using servlet Knappsack Maven Archetypes. For more information on the 
  archetypes go to :
